@@ -1,2 +1,2 @@
 # my-first-blog
-A blog using django and python
+* A blog using django and python
